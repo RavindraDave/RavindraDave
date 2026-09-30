@@ -17,7 +17,6 @@ I've spent 15+ years building and running technology for banks across APAC, Euro
 | [**Auto Tab Switcher**](https://github.com/RavindraDave/AutoTabSwitcher) | Chrome extension (Manifest V3, TypeScript) that cycles through tabs automatically. **~30K users**, no marketing spend |
 | [**Postloom**](https://github.com/RavindraDave/postloom) | Cross-platform desktop app for sending personalised emails from a spreadsheet, with a visual designer and safety checks |
 | [**WealthPulse**](https://github.com/RavindraDave/NetWorthTracker) | Offline-first PWA for tracking net worth and FIRE goals (React, TypeScript, Vite, Dexie.js) |
-| [**Email Automation**](https://github.com/RavindraDave/EmailAutomation) | .NET 10 + Avalonia desktop app for bulk email: preview, throttle, resume |
 | [**WordPress Dev Plugin**](https://github.com/RavindraDave/claude-plugin-wordpress-dev) | Claude Code plugin for WordPress builds, with a design system, WCAG checks and security standards |
 | [**ui-taste-kit**](https://github.com/RavindraDave/ui-taste-kit) | Design-guidance skills for AI coding agents |
 

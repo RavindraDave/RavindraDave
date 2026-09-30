@@ -1,8 +1,8 @@
 ### Hi, I'm Ravindra 👋
 
-**Banking technologist by day, indie builder by night.**
+**Banking technologist by day, open-source builder by night.**
 
-I've spent 15+ years building and running technology for banks across APAC, Europe and Australia. Most of that time has gone into FX trading platforms and Privileged Access Management. Outside work I run **[R2D Solutions](https://www.r2dsolutions.com)**, where I build small, useful, privacy-first products.
+I've spent 15+ years building and running technology for banks across APAC, Europe and Australia. Most of that time has gone into FX trading platforms and Privileged Access Management. Outside work I build small, useful, privacy-first open-source tools under the **[R2D Solutions](https://www.r2dsolutions.com)** name. Everything is free.
 
 #### 🏦 Day job
 

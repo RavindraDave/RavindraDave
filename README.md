@@ -20,7 +20,6 @@ I've spent 15+ years building and running technology for banks across APAC, Euro
 | [**WordPress Dev Plugin**](https://github.com/RavindraDave/claude-plugin-wordpress-dev) | Claude Code plugin for WordPress builds, with a design system, WCAG checks and security standards |
 | [**ui-taste-kit**](https://github.com/RavindraDave/ui-taste-kit) | Design-guidance skills for AI coding agents |
 
-Currently building **Nestling**, a free, private, offline-capable AI desktop companion (Tauri + Rive + local LLMs).
 
 #### 🧰 Stack
 
